@@ -44,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/Arsh1801/DSA-Journey/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Arsh1801/DSA-Journey/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
