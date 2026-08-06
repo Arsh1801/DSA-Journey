@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0068-text-justification](https://github.com/Arsh1801/DSA-Journey/tree/master/0068-text-justification) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Arsh1801/DSA-Journey/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
