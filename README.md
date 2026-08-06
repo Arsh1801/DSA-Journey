@@ -51,8 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Arsh1801/DSA-Journey/tree/master/0007-reverse-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Arsh1801/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Arsh1801/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
