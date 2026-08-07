@@ -9,7 +9,6 @@ public:
             int j = i;
             int letters = 0;
 
-            // Find words that fit in the current line
             while (j < n &&
                    letters + words[j].size() + (j - i) <= maxWidth) {
                 letters += words[j].size();
