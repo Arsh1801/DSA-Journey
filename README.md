@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arsh1801/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Arsh1801/DSA-Journey/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Arsh1801/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/Arsh1801/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Stack
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arsh1801/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
