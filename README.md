@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1470-shuffle-the-array](https://github.com/Arsh1801/DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arsh1801/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Arsh1801/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
