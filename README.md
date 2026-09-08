@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Arsh1801/DSA-Journey/tree/master/0007-reverse-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arsh1801/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arsh1801/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/Arsh1801/DSA-Journey/tree/master/3870-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |
