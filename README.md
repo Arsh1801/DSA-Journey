@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Arsh1801/DSA-Journey/tree/master/0068-text-justification) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1801/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Arsh1801/DSA-Journey/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Arsh1801/DSA-Journey/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0189-rotate-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arsh1801/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Arsh1801/DSA-Journey/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Arsh1801/DSA-Journey/tree/master/3870-count-commas-in-range) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0189-rotate-array) |
 ## Enumeration
 |  |
 | ------- |
