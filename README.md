@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arsh1801/DSA-Journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Arsh1801/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Arsh1801/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Arsh1801/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
 |  |
