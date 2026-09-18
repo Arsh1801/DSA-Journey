@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1470-shuffle-the-array](https://github.com/Arsh1801/DSA-Journey/tree/master/1470-shuffle-the-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arsh1801/DSA-Journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arsh1801/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [3731-find-missing-elements](https://github.com/Arsh1801/DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 ## Binary Search
 |  |
