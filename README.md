@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arsh1801/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Arsh1801/DSA-Journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1470-shuffle-the-array](https://github.com/Arsh1801/DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arsh1801/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arsh1801/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Arsh1801/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Arsh1801/DSA-Journey/tree/master/3731-find-missing-elements) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [3731-find-missing-elements](https://github.com/Arsh1801/DSA-Journey/tree/master/3731-find-missing-elements) |
 ## Math
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arsh1801/DSA-Journey/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Enumeration
 |  |
 | ------- |
@@ -144,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arsh1801/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
