@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Arsh1801/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arsh1801/DSA-Journey/tree/master/1089-duplicate-zeros) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/Arsh1801/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Arsh1801/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
+| [0905-sort-array-by-parity](https://github.com/Arsh1801/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Arsh1801/DSA-Journey/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
