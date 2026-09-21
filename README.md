@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Arsh1801/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/Arsh1801/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1801/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Arsh1801/DSA-Journey/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Arsh1801/DSA-Journey/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Arsh1801/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Arsh1801/DSA-Journey/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Arsh1801/DSA-Journey/tree/master/0169-majority-element) |
