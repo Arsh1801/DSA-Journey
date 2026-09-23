@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Arsh1801/DSA-Journey/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Arsh1801/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Arsh1801/DSA-Journey/tree/master/0905-sort-array-by-parity) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Arsh1801/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/Arsh1801/DSA-Journey/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Arsh1801/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Arsh1801/DSA-Journey/tree/master/0561-array-partition) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arsh1801/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Arsh1801/DSA-Journey/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/Arsh1801/DSA-Journey/tree/master/1051-height-checker) |
 ## Bubble Sort
 |  |
