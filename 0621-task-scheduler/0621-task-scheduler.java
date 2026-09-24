@@ -6,9 +6,9 @@ class Solution {
         }
         PriorityQueue<Integer> pq =
             new PriorityQueue<>(Collections.reverseOrder());
-        for (int count : freq) {
-            if (count > 0) {
-                pq.add(count);
+        for (int i = 0; i < 26; i++) {
+            if (freq[i] > 0) {
+                pq.add(freq[i]);
             }
         }
         int time = 0;
