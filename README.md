@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Arsh1801/DSA-Journey/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0724-find-pivot-index](https://github.com/Arsh1801/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Arsh1801/DSA-Journey/tree/master/0905-sort-array-by-parity) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Arsh1801/DSA-Journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Arsh1801/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Arsh1801/DSA-Journey/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arsh1801/DSA-Journey/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/Arsh1801/DSA-Journey/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arsh1801/DSA-Journey/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Arsh1801/DSA-Journey/tree/master/0561-array-partition) |
+| [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arsh1801/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Heap (Priority Queue)
@@ -167,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arsh1801/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
 ## Binary Search
 |  |
