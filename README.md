@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Arsh1801/DSA-Journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/Arsh1801/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Arsh1801/DSA-Journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2643-row-with-maximum-ones](https://github.com/Arsh1801/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Arsh1801/DSA-Journey/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Arsh1801/DSA-Journey/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Arsh1801/DSA-Journey/tree/master/0036-valid-sudoku) |
+| [2643-row-with-maximum-ones](https://github.com/Arsh1801/DSA-Journey/tree/master/2643-row-with-maximum-ones) |
 ## Counting Sort
 |  |
 | ------- |
