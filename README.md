@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Arsh1801/DSA-Journey/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/Arsh1801/DSA-Journey/tree/master/0068-text-justification) |
 | [0205-isomorphic-strings](https://github.com/Arsh1801/DSA-Journey/tree/master/0205-isomorphic-strings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arsh1801/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arsh1801/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Arsh1801/DSA-Journey/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Arsh1801/DSA-Journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
