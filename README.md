@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Arsh1801/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/Arsh1801/DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Arsh1801/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Arsh1801/DSA-Journey/tree/master/0503-next-greater-element-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Arsh1801/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arsh1801/DSA-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arsh1801/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0480-sliding-window-median](https://github.com/Arsh1801/DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Arsh1801/DSA-Journey/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arsh1801/DSA-Journey/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Arsh1801/DSA-Journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0480-sliding-window-median](https://github.com/Arsh1801/DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Arsh1801/DSA-Journey/tree/master/0643-maximum-average-subarray-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Arsh1801/DSA-Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Arsh1801/DSA-Journey/tree/master/0239-sliding-window-maximum) |
+| [0480-sliding-window-median](https://github.com/Arsh1801/DSA-Journey/tree/master/0480-sliding-window-median) |
 | [0506-relative-ranks](https://github.com/Arsh1801/DSA-Journey/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Arsh1801/DSA-Journey/tree/master/0621-task-scheduler) |
 | [1383-maximum-performance-of-a-team](https://github.com/Arsh1801/DSA-Journey/tree/master/1383-maximum-performance-of-a-team) |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Arsh1801/DSA-Journey/tree/master/0133-clone-graph) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Arsh1801/DSA-Journey/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
